@@ -3,7 +3,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/yeqown/gorm-opentracing)](https://goreportcard.com/report/github.com/yeqown/gorm-opentracing) [![go.dev reference](https://img.shields.io/badge/go.dev-reference-007d9c?logo=go&logoColor=white&style=flat-square)](https://pkg.go.dev/github.com/yeqown/gorm-opentracing)
 
 opentracing support for gorm2. 
-**This repository has be migrated to [github.com/go-gorm/opentracing](https://github.com/go-gorm/opentracing).**
+
+> ### **!!! This repository has be migrated to [github.com/go-gorm/opentracing](https://github.com/go-gorm/opentracing).**
 
 ### Features
 
